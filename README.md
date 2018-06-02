@@ -4,6 +4,9 @@
 1. Install Apache
 sudo apt install apache2
 
+Gives permision the modify html folder
+sudo chmod 777 /var/www/html
+
 2. Install MySQL
 sudo apt install mysql-server
 
