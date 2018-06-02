@@ -2,7 +2,7 @@
 
 # Ubuntu
 1. Install Apache
-sudo apt install apache2
+sudo apt-get install apache2
 
 Gives permision the modify html folder
 sudo chmod 777 /var/www/html
@@ -12,7 +12,7 @@ sudo apt-get install mysql-server
 
 3. Install PHP
 sudo apt-get install php-pear php-fpm php-dev php-zip php-curl php-xmlrpc php-gd php-mysql php-mbstring php-xml libapache2-mod-php
-välj apache2 med space
+
 
 4. Restart Server
 sudo service apache2 restart
@@ -30,3 +30,7 @@ write index.php before index.html
 8. 
 sudo systemctl restart apache2
 
+
+sudo apt-get phpmyadmin
+välj apache2 med space
+choose root as password
