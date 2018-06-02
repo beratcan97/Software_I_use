@@ -1,6 +1,6 @@
 # Software-I-use
 
-# Ubuntu
+## Ubuntu
 ### 1. Install Apache
 sudo apt-get install apache2
 
