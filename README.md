@@ -59,4 +59,4 @@ Run the cmd as administrator
 
 >export PATH="$PATH:$HOME/.composer/vendor/bin"
 
-#HAPPY COODING!
+# HAPPY COODING!
