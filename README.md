@@ -29,10 +29,15 @@ write index.php before index.html
 ### 8. Restarts 
 > sudo systemctl restart apache2
 
-
+### 9. Install phpMyAdmin
 > sudo apt-get phpmyadmin
 choose apache2 with space
 choose root as password
+
+### 10. Install git
+> sudo apt-get update
+> sudo apt-get install git
+
 
 ## For Windows
 
