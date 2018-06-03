@@ -60,3 +60,9 @@ Run the cmd as administrator
 >export PATH="$PATH:$HOME/.composer/vendor/bin"
 
 # HAPPY COODING!
+
+## How to use
+
+# To run php in console
+
+> php -S localhost:3000 -t src/public
