@@ -1,6 +1,6 @@
 # Software-I-use
 
-## Ubuntu
+## For Ubuntu
 ### 1. Install Apache
 > sudo apt-get install apache2
 
@@ -33,3 +33,5 @@ write index.php before index.html
 > sudo apt-get phpmyadmin
 välj apache2 med space
 choose root as password
+
+## For Windows
