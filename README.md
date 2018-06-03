@@ -54,8 +54,7 @@ Run the cmd as administrator
 Easy Installation with .exe file
 
 ### Install php-cs-fixer
-
+Run the cmd as administrator
 >composer global require friendsofphp/php-cs-fixer
 
 >export PATH="$PATH:$HOME/.composer/vendor/bin"
-
