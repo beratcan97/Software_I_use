@@ -22,7 +22,7 @@ Open a web browser and navigate to http://localhost/. You should see a message s
 ### 6. Check PHP
 > php -r 'echo "\n\nYour PHP installation is working fine.\n\n\n";'
 
-### 7. Väljer php filer över html
+### 7. Choose PHP files instand of html
 > sudo nano /etc/apache2/mods-enabled/dir.conf
 write index.php before index.html
 
@@ -31,7 +31,7 @@ write index.php before index.html
 
 
 > sudo apt-get phpmyadmin
-välj apache2 med space
+choose apache2 with space
 choose root as password
 
 ## For Windows
