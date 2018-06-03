@@ -38,6 +38,8 @@ choose root as password
 > sudo apt-get update
 > sudo apt-get install git
 
+### 11. Install Visual studio code
+Or any other code editor
 
 ## For Windows
 
