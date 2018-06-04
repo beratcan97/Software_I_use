@@ -47,9 +47,10 @@ Or any other code editor
 Or any other code editor
 ### 2. Install Scout-app
 Or any other sass
-### 3. Install Postman
-### 4. Install MAMP
-### 5. Install Chocolatey
+### 3. Install node.js
+### 4. Install Postman
+### 5. Install MAMP
+### 6. Install Chocolatey
 Run the cmd as administrator
 >@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
 
@@ -57,10 +58,10 @@ Run the cmd as administrator
 
 >choco install php -y
 
-### 6. Install Composer
+### 7. Install Composer
 Easy Installation with .exe file
 
-### Install php-cs-fixer
+### 8. Install php-cs-fixer
 Run the cmd as administrator
 >composer global require friendsofphp/php-cs-fixer
 
