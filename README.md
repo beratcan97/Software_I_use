@@ -71,10 +71,10 @@ Run the cmd as administrator
 
 ## How to use
 
-# To run php in console
+## To run php in console
 
 > php -S localhost:3000 -t src/public
 
-# Wordpress login page
+## Wordpress login page
 
 > http://localhost/wp-login.php
