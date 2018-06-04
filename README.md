@@ -67,9 +67,7 @@ Run the cmd as administrator
 
 >export PATH="$PATH:$HOME/.composer/vendor/bin"
 
-# HAPPY COODING!
-
-## How to use
+# How to use
 
 ## To run php in console
 
