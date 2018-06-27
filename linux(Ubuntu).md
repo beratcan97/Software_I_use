@@ -46,4 +46,4 @@ Or any other code editor
 > sudo apt-get install npm
 
 ### 13 Install Angular
-> npm install -g @angular/cli
+> 
