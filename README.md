@@ -1,10 +1,10 @@
 # Software-I-use
 > I store most of the software I user here.
 
-# Good to know
+## Good to know
 
-## To run php in console
+### To run php in console
 > php -S localhost:3000 -t src/public
 
-## Wordpress login page
+### Wordpress login page
 > http://localhost/wp-login.php
