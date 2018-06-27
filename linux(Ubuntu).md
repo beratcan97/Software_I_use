@@ -44,3 +44,6 @@ Or any other code editor
 > sudo apt-get update
 > sudo apt-get install nodejs
 > sudo apt-get install npm
+
+### 13 Install Angular
+> npm install -g @angular/cli
