@@ -39,3 +39,8 @@ choose root as password
 
 ### 11. Install Visual studio code
 Or any other code editor
+
+### 12. Install Nodejs and npm
+> sudo apt-get update
+> sudo apt-get install nodejs
+> sudo apt-get install npm
