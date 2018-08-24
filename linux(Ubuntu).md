@@ -44,27 +44,3 @@ Or any other code editor
 > sudo apt-get update
 > sudo apt-get install nodejs
 > sudo apt-get install npm
-
-
-### 8. Visual Studio code extensions
->ES7 React/Redux/GraphQL/React-Native snippets
-
->ESLint
-
->Live Server
-
-And configre visual studio user settings
-
->{
-    "window.zoomLevel": 1,
-    "editor.formatOnSave": true,
-    "emmet.includeLanguages": {
-        "javascript": "javascriptreact"
-    },
-    "emmet.triggerExpansionOnTab": true,
-    "emmet.syntaxProfiles": {
-        "javascript": "jsx",
-        "javascript": "html"
-    },
-    "editor.wordWrap": "on"
-}
