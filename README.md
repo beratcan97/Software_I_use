@@ -8,3 +8,6 @@
 
 ### Wordpress login page
 > http://localhost/wp-login.php
+
+### Chrome extension
+> React Developer Tools
