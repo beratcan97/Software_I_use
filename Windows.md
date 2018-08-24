@@ -35,9 +35,9 @@ Run the cmd as administrator
 
 >Live Server
 
-And configre visual studio 
+And configre visual studio user settings
 
->User settings == {
+>{
     "window.zoomLevel": 1,
     "editor.formatOnSave": true,
     "emmet.includeLanguages": {
