@@ -26,3 +26,23 @@ Run the cmd as administrator
 >composer global require friendsofphp/php-cs-fixer
 
 >export PATH="$PATH:$HOME/.composer/vendor/bin"
+
+
+### 8. Visual Studio Codes
+>ES7 React/Redux/GraphQL/React-Native snippets
+>ESLint
+>Live Server
+ And configre visual studio 
+ >User settings == {
+    "window.zoomLevel": 1,
+    "editor.formatOnSave": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx",
+        "javascript": "html"
+    },
+    "editor.wordWrap": "on"
+}
