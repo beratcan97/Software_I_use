@@ -30,10 +30,14 @@ Run the cmd as administrator
 
 ### 8. Visual Studio Codes
 >ES7 React/Redux/GraphQL/React-Native snippets
+
 >ESLint
+
 >Live Server
- And configre visual studio 
- >User settings == {
+
+And configre visual studio 
+
+>User settings == {
     "window.zoomLevel": 1,
     "editor.formatOnSave": true,
     "emmet.includeLanguages": {
