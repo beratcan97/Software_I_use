@@ -28,7 +28,7 @@ Run the cmd as administrator
 >export PATH="$PATH:$HOME/.composer/vendor/bin"
 
 
-### 8. Visual Studio Codes
+### 8. Visual Studio code extensions
 >ES7 React/Redux/GraphQL/React-Native snippets
 
 >ESLint
