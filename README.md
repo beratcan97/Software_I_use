@@ -9,7 +9,7 @@
 ### Wordpress login page
 > http://localhost/wp-login.php
 
-### 8. Visual Studio code extensions
+### Visual Studio code extensions
 >ES7 React/Redux/GraphQL/React-Native snippets
 
 >ESLint
