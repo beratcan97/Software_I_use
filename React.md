@@ -4,9 +4,9 @@
 >npm start
 
 ### Code examples...
-# Reverse a string
+##### Reverse a string
 >split("").reverse().join("")
-# If statement ex
+##### If statement ex
 >this.state.name.includes("z") ? "Z are not allowed" : this.state.name
-# Method ex
+##### Method ex
 > handleChange = () => {}
