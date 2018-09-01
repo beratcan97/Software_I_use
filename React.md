@@ -14,6 +14,8 @@
 > handleChange = () => {}
 ##### Button to trigger the method
 > <button onClick={this.handleChange}></button>
+##### Button to trigger the method that contains a variable
+> <button onClick={this.handleChange}></button>
 ##### Write out a array
 >   render() {
     const myAarray = this.state.myAarray;
@@ -26,3 +28,9 @@
       </div>
     );
   }
+##### Push a object in a exsisting array in state
+> onChange(event){
+    var newArray = this.state.arr.slice();    
+    newArray.push("new value");   
+    this.setState({arr:newArray})
+}
