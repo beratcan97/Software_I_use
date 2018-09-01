@@ -12,6 +12,8 @@
 >this.state.name.includes("z") ? "Z are not allowed" : this.state.name
 ##### Method ex
 > handleChange = () => {}
+##### Button to trigger the method
+> <button onClick={this.handleChange}></button>
 ##### Write out a array
 >   render() {
     const myAarray = this.state.myAarray;
