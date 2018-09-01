@@ -34,3 +34,5 @@
     newArray.push("new value");   
     this.setState({arr:newArray})
 }
+##### Remove item from array
+> this.state.products.splice(product, 1);
