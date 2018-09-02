@@ -36,3 +36,18 @@
 }
 ##### Remove item from array
 > this.state.products.splice(product, 1);
+
+##### Fetch API
+> //skinny version
+fetch("https://api.me/get")
+    .then(response =>response.json())  //Get JSON, implicit return
+    .then(json =>console.log(json))    //Log the JSON
+    
+//fat version
+fetch("https://api.me/get")
+    .then(function(response){
+        return response.json()
+    })
+    .then(function(json){ 
+        console.log(json)
+    });
