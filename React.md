@@ -18,9 +18,9 @@
 > <button onClick={this.handleChange}></button>
 ##### Write out a array
 >   render() {
-    const myAarray = this.state.myAarray;
-    const productsWriteOut = myAarray.map((myAarrayItem, index) =>
-      <div key={index}>{myAarrayItem}</div>
+    const newArray = this.state.myAarray;
+    const productsWriteOut = newArray.map((newArrayItem, index) =>
+      <div key={index}>{newArrayItem}</div>
     );
     return (
       <div>
