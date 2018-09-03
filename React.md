@@ -51,3 +51,7 @@ fetch("https://api.me/get")
     .then(function(json){ 
         console.log(json)
     });
+##### Run on load
+> componentDidMount() {
+    this.exampleMethod();
+}
