@@ -34,3 +34,6 @@ And configre visual studio user settings
 
 ### Chrome extension
 > React Developer Tools
+
+### Firebase install
+> npm install --save firebase
