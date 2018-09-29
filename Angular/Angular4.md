@@ -22,3 +22,6 @@
 
 ### Push to first place in a array
 > unshift(); instand of push
+
+### List of a array
+> <li *ngFor="let hobby of hobbys;">{{hobby}}</li>
