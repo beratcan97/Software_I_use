@@ -19,3 +19,6 @@
 
 ### Don't update after submit
 > return false;
+
+### Push to first place in a array
+> unshift(); instand of push
