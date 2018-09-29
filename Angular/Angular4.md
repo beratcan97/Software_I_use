@@ -16,3 +16,6 @@
 
 ### Props
 > {{myprop}}
+
+### Don't update after submit
+> return false;
