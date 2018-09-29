@@ -10,3 +10,9 @@
 
 ### Create a component
 > ng g component components/user
+
+### Button
+> <button (click)="addNumber()">{{clicked}}</button>
+
+### Props
+> {{myprop}}
