@@ -15,6 +15,17 @@ The modifiers public and static can be written in either order.
 > String[]: The main method accepts a single argument: 
           an array of elements of type String.
 
+### Methods
+> toLowerCase()
+
+> toUpperCase()
+
+### Function
+
+> public static void myFunction() {
+
+>}
+
 ### Console log
 > System.out.println("Hello, World");
 
