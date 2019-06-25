@@ -23,25 +23,44 @@ The modifiers public and static can be written in either order.
 
 ### Data types
 > boolean
+
 > byte
+
 > example value: -128 to 127
+
 > char
+
 > short
+
 > int
+
 > example -2,-1,0,1,2
+
 > long
+
 > example -2L,-1L,0L,1L,2L
+
 > float
+
 > double
 
 ### example
 > public class hello {
+
 >	public static void main(String[] args) {
+
 >		// TODO Auto-generated method stub
+
 >		int firstNumber = 0;		
+
 >		while (firstNumber < 100) {
+
 >			System.out.println(firstNumber);
+
 >			firstNumber++;
+
 >		}		
+
 >   }
+
 >}
